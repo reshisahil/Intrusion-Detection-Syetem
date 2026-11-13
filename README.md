@@ -1,10 +1,10 @@
-# 🛡️ AI-Assisted Network Intrusion Detection & Threat Analysis Platform
+#  AI-Assisted Network Intrusion Detection & Threat Analysis Platform
 
 An intelligent Network Intrusion Detection System (NIDS) that combines **Rule-Based Detection and Machine Learning** to identify suspicious network activities, detect potential cyberattacks, generate explainable security alerts, and visualize threats through an interactive security dashboard.
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 With the increasing number of cyberattacks, monitoring network traffic and identifying suspicious activities have become essential for organizations.
 
@@ -16,7 +16,7 @@ The system analyses network traffic or security logs, identifies potentially mal
 
 **In simple words:** It works like a smart security guard for computer networks, continuously monitoring activities and alerting administrators whenever suspicious behaviour is detected.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Develop an intelligent Network Intrusion Detection System.
 - Monitor and analyse network activities.
@@ -27,7 +27,7 @@ The system analyses network traffic or security logs, identifies potentially mal
 - Store and manage security alerts using a database.
 - Provide an interactive dashboard for security monitoring and investigation.
 
-## ⚙️ System Architecture
+##  System Architecture
 
 The proposed system follows this workflow:
 
@@ -69,7 +69,7 @@ The proposed system follows this workflow:
              SECURITY DASHBOARD
 ```
 
-## 🧠 Key Features
+##  Key Features
 
 ### 1. Network Data Collection
 - Collect network traffic, system logs, or security logs.
@@ -126,7 +126,7 @@ Provide a centralized interface to:
 - Investigate potential threats.
 - View attack severity and detection reasons.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 The following is our proposed technology stack:
 
@@ -141,7 +141,7 @@ The following is our proposed technology stack:
 | Data Visualization | Plotly |
 | Version Control | Git & GitHub |
 
-## 👥 Team Members & Responsibilities
+##  Team Members & Responsibilities
 
 This project is developed collaboratively by a team of four members.
 
@@ -154,7 +154,7 @@ This project is developed collaboratively by a team of four members.
 
 Each member independently develops their assigned module, followed by integration and testing.
 
-## 📂 Proposed Project Structure
+##  Proposed Project Structure
 
 ```text
 AI-Assisted-IDS/
@@ -190,7 +190,7 @@ AI-Assisted-IDS/
 
 *The directory structure is a proposed starting point and may change during development.*
 
-## 🔍 Example Scenario
+##  Example Scenario
 
 Imagine a device starts connecting to multiple different ports on another machine within a few seconds.
 
@@ -219,7 +219,7 @@ contacted within a short time.
 Status: Suspicious Activity Detected
 ```
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 The Machine Learning component will be evaluated using:
 
@@ -233,7 +233,7 @@ The Machine Learning component will be evaluated using:
 
 Our objective is to evaluate the model beyond accuracy and understand how effectively it identifies suspicious activities.
 
-## 🚀 Development Roadmap
+##  Development Roadmap
 
 The project is planned to be developed within a compressed 4–5 day timeline.
 
@@ -245,7 +245,7 @@ The project is planned to be developed within a compressed 4–5 day timeline.
 | Day 4 | Integrate backend, ML model, database and dashboard |
 | Day 5 | Testing, debugging, documentation and final demonstration |
 
-## 🔐 Security & Ethical Considerations
+##  Security & Ethical Considerations
 
 - All security testing must be performed in authorized environments.
 - Attack simulations must be controlled and conducted in isolated labs.
@@ -253,13 +253,13 @@ The project is planned to be developed within a compressed 4–5 day timeline.
 - The system is intended for defensive security monitoring and research.
 - Detection results are indicators for investigation, not definitive proof of malicious activity.
 
-## 🌟 Expected Outcome
+##  Expected Outcome
 
 The expected outcome is a working AI-assisted Network Intrusion Detection System that combines traditional security rules and Machine Learning to identify suspicious network activities.
 
 The application will generate explainable alerts, prioritize potential threats through severity scoring, store relevant information, and provide a centralized dashboard for security monitoring and investigation.
 
-## 👨‍💻 Project Type
+##  Project Type
 
 College Group Project | Cybersecurity | Artificial Intelligence | Machine Learning | Network Security
 
