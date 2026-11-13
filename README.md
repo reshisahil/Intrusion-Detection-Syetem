@@ -239,11 +239,11 @@ The project is planned to be developed within a compressed 4–5 day timeline.
 
 | Phase | Activities |
 |---|---|
-| Day 1 | Project setup, architecture and module allocation |
-| Day 2 | Data preprocessing, initial ML model, detection rules and dashboard skeleton |
-| Day 3 | Complete individual modules and prepare interfaces |
-| Day 4 | Integrate backend, ML model, database and dashboard |
-| Day 5 | Testing, debugging, documentation and final demonstration |
+| Week 1| Project setup, architecture and module allocation |
+| Week 2 | Data preprocessing, initial ML model, detection rules and dashboard skeleton |
+| Week 3| Complete individual modules and prepare interfaces |
+| Week 4 | Integrate backend, ML model, database and dashboard |
+| Week 5 | Testing, debugging, documentation and final demonstration |
 
 ##  Security & Ethical Considerations
 
